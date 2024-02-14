@@ -1,0 +1,21 @@
+32,victim,bike,males,one
+27,dont know,dont know,males,two
+25,victim,running,males,one
+23,victim,bike,males,one
+28,victim,bike,females,two
+37,victim,dont know,males,one
+38,victim,bike,males,two
+39,victim,running,males,one
+42,victim,scooter,females,one
+45,victim,dont know,males,one
+34,witness,bike,males,one
+47,witness,scooter,males,one
+37,dont know,bike,males,two
+34,witness,running,females,two
+39,witness,scooter,males,one
+32,dont know,dont know,males,one
+29,dont know,dont know,males,one
+28,witness,scooter,females,two
+43,witness,dont know,males,one
+30,witness,scooter,females,two
+
