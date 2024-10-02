@@ -4,7 +4,7 @@ The course will introduce students to the Python programming language and to the
 
 ## Key Projects
 
-#### Crime Data Collection Survey (Programming for Crime Scientists)
+#### Crime Data Collection Survey 
 * This one is referring to the take home exam project
 * Designed and implemented functions, lists and dictionaries to gather and analyze data on crime incidents
 * Developed an intuitive interface allowing participants to anonymously submit information
@@ -13,7 +13,7 @@ The course will introduce students to the Python programming language and to the
 
 **Libraries**: `numpy`, `matplotlib`, `csv`, `json`, `pickle`, `requests`, `pandas`, `seaborn`, `scipy`, `random`, `math`
 
-#### Crime Data Analysis of UK Neighborhoods (Programming for Crime Scientists)
+#### Crime Data Analysis of UK Neighborhoods
 * This one is referring to the independent project
 * Developed an interface to retrieve crime information by neighborhood for specified year and month
 * Enabled users to access detailed crime data for specific neighborhoods
